@@ -1,0 +1,34 @@
+{
+  "name": "TREVO AI Travel Planner",
+  "short_name": "TREVO",
+  "description": "Plan AI-powered trips, compare hotels, track ideas, and manage travel todos.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f8fafc",
+  "theme_color": "#0f766e",
+  "categories": ["travel", "productivity"],
+  "icons": [
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Plan Trip",
+      "short_name": "Plan",
+      "description": "Create a new AI itinerary",
+      "url": "/itinerary"
+    },
+    {
+      "name": "Trip Todos",
+      "short_name": "Todos",
+      "description": "Open your travel checklist",
+      "url": "/todo"
+    }
+  ]
+}

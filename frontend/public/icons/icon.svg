@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="TREVO">
+  <rect width="512" height="512" rx="112" fill="#0f766e"/>
+  <path d="M108 162h296v58H286v198h-60V220H108z" fill="#ffffff"/>
+  <path d="M158 316c48-86 109-129 184-129 30 0 55 6 76 17-16 35-40 65-72 90-52 41-115 61-188 61z" fill="#facc15"/>
+  <path d="M161 354c77-12 140-38 189-79 28-23 50-49 66-78 3 18 4 37 1 57-8 54-39 96-94 126-47 25-101 28-162 9z" fill="#38bdf8"/>
+</svg>
